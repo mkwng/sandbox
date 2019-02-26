@@ -1,1 +1,1 @@
-cats cats cats
+super cats
