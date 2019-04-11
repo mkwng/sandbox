@@ -1,1 +1,5 @@
-conflict
+(function(){
+  function meow() {
+    var cat;
+   }
+})();
