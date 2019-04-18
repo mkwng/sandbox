@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-TEST TEST TEST
+issue DASH template
 
 **To Reproduce**
 Steps to reproduce the behavior:
