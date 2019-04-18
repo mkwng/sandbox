@@ -1,7 +1,7 @@
 ---
-name: TEST TEST
+name: DASH
 about: Ipsum lorem dolor sit amet
-title: 'Lorem Lorem'
+title: 'issue DASH template'
 labels: 'enhacement'
 assignees: ''
 
